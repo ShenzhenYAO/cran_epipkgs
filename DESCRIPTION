@@ -1,0 +1,9 @@
+Package: epipkgs
+Type: Package
+Title: Common Tools for Wrangling with Epidemiological Data
+Version: 0.1.0
+Authors@R: person("Shenzhen", "Yao", email="syao.ad@usask.ca", role = c('cre', 'aut'))
+Description: To be updated.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.2
